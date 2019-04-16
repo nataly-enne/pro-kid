@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 563a4c8bca54d0a479137d6f021228d1
+timeCreated: 1499279890
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KiloGram
+  fontNames:
+  - KiloGram
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
