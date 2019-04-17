@@ -9,3 +9,5 @@ ProKid é um jogo eletrônico desenvolvido em C# na Unity3D  que apresenta os pr
 </p>
 
 #### Há um arquivo em .pdf que é o artigo sobre o projeto.
+
+#### Para testar o jogo, há um arquivo executável [.exe] na pasta Builds 
