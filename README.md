@@ -1,6 +1,6 @@
 # ProKid
 <p>
-O ProKid é um trabalho de conclusão de curso apresentado ao Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte como exigência parcial para obtenção do título de Técnico em Informática orientado pelo professor Alan Kingles Sousa Alves.
+O ProKid é um trabalho de conclusão de curso apresentado ao Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – Campus Pau dos Ferros, como exigência parcial para obtenção do título de Técnico em Informática orientado pelo professor Alan Kingles Sousa Alves.
 </p>
 
 # What is it?
