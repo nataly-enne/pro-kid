@@ -99,7 +99,7 @@ public class UISettings : MonoBehaviour {
         {            
             RectTransform forQueueRect = forQueue.GetComponent<RectTransform>();
             HorizontalLayoutGroup forQueueLG = forQueue.GetComponent<HorizontalLayoutGroup>();
-            sD = new Vector2(forQueueLG.padding.right + forQueueLG.padding.left + (forQueueSize + 1) * 128 + (forQueueSize + 1) * forQueueLG.spacing, 140);
+            sD = new Vector2(forQueueLG.padding.right + forQueueLG.padding.left + (forQueueSize + 1) * 128 + forQueueSize * forQueueLG.spacing, 140);
             forQueueRect.sizeDelta = sD;
             forQueueBG.GetComponent<RectTransform>().sizeDelta = sD;
             forQueue.GetComponent<DropZone>().maxChildren = forQueueSize;

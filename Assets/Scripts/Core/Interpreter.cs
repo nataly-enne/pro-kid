@@ -11,6 +11,10 @@ public class Interpreter : MonoBehaviour {
     
     public float turnDuration;
 
+	// Use this for initialization
+	void Start () {
+	}
+	
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown(KeyCode.R))

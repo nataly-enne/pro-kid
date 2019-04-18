@@ -21,6 +21,8 @@ public class LevelManagerUnlocked : MonoBehaviour {
 		SceneManager.LoadScene (levelString);
 	}
 
+
+
 	void LevelLocked()
 	{
 		GetComponent<Button> ().interactable = false;

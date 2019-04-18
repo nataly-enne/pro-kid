@@ -10,12 +10,9 @@ public class UIController : MonoBehaviour {
     [HideInInspector]
     public GameObject congrats;
 
-    GameObject returnButton;
-
     void Start()
     {
         settings = GetComponent<UISettings>();
-        returnButton = GameObject.Find("Return");
 
         queues.Add(settings.mainQueue);
         backgrounds.Add(settings.mainQueueBG);
@@ -105,7 +102,6 @@ public class UIController : MonoBehaviour {
         settings.redQueue.SetActive(false);
         settings.redQueueBG.SetActive(false);
         trash.SetActive(false);
-        returnButton.SetActive(false);
 
         congrats.SetActive(true);
     }
