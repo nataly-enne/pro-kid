@@ -1,3 +1,9 @@
+[![Latest Stable Version](https://poser.pugx.org/unity/support/v/stable)](https://packagist.org/packages/unity/support)
+[![Latest Unstable Version](https://poser.pugx.org/unity/support/v/unstable)](https://packagist.org/packages/unity/support)
+[![License](https://poser.pugx.org/unity/support/license)](https://packagist.org/packages/unity/support)
+
+
+
 # ProKid
 <p>
 O ProKid é um trabalho de conclusão de curso apresentado ao Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – Campus Pau dos Ferros, como exigência parcial para obtenção do título de Técnico em Informática orientado pelo professor Alan Kingles Sousa Alves.
