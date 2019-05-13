@@ -1,8 +1,3 @@
-[![Latest Stable Version](https://poser.pugx.org/unity/support/v/stable)](https://packagist.org/packages/unity/support)
-[![Latest Unstable Version](https://poser.pugx.org/unity/support/v/unstable)](https://packagist.org/packages/unity/support)
-[![License](https://poser.pugx.org/unity/support/license)](https://packagist.org/packages/unity/support)
-
-
 
 # ProKid
 <p>
@@ -17,3 +12,11 @@ ProKid é um jogo eletrônico desenvolvido em C# na Unity3D  que apresenta os pr
 #### Há um arquivo em .pdf que é o artigo sobre o projeto.
 
 #### Para testar o jogo, há um arquivo executável [.exe] na pasta Builds. 
+
+
+### Unity Support
+[![Latest Stable Version](https://poser.pugx.org/unity/support/v/stable)](https://packagist.org/packages/unity/support)
+[![Latest Unstable Version](https://poser.pugx.org/unity/support/v/unstable)](https://packagist.org/packages/unity/support)
+[![License](https://poser.pugx.org/unity/support/license)](https://packagist.org/packages/unity/support)
+
+
